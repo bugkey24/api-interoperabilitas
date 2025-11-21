@@ -1,4 +1,4 @@
-const db = require("../database.js");
+const db = require("../db.js");
 
 // GET all movies
 exports.getAllMovies = (req, res) => {
